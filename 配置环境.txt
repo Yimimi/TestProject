@@ -1,0 +1,4 @@
+Path加上“;%JAVA_HOME%\bin;”
+新建环境变量：
+“JAVE_HOME”
+“F:\Ecclipse\jdk1.8.0_91”
